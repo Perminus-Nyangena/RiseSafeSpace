@@ -1,0 +1,28 @@
+# Safeguarding
+
+Rise Safe Space is built for adolescents. Their safety comes before any feature, deadline or result.
+
+> **If a child in Kenya is in danger or needs help now,** call the National Child Helpline on **116** (free, 24 hours) or message it on WhatsApp at **0722 116 116**.
+
+## Our commitments
+
+1. **A written child safeguarding policy comes first.** It will cover vetting of every adult involved, guardian consent and a clear reporting route, and it will be in place before any work with children begins.
+2. **Adults test first.** The first prototype will be tested only with adult members of the YouthRise and SheRise Councils.
+3. **Consent.** Young people under 18 will take part only with the consent of a parent or guardian, and only after our data protection assessment is complete.
+4. **Support and refer, never investigate.** Disclosures of violence or abuse will be kept confidential and referred to health, counselling, legal aid and the authorities.
+5. **The AI does not handle crises alone.** When a message signals abuse, pregnancy, self harm or danger, automated answering stops and the young person is pointed to qualified services.
+6. **No children's chats in training data.** Risk detection will be trained and tested on example messages written and reviewed by professionals and adult Council members.
+7. **Least data possible.** Names and phone numbers are removed before anything is kept for analysis. The public dashboard shows only anonymised, aggregated topics.
+8. **Vetted content only.** Every answer draws on content reviewed by health and child protection professionals.
+9. **Honest reporting.** We will report safeguarding incidents and lessons to funders and partners, including what went wrong.
+
+## Standards we follow
+
+* Kenya's Data Protection Act
+* UNICEF's Policy Guidance on AI for Children
+
+## Reporting a concern
+
+If you have a concern about this project, its content or anyone involved in it, email **perminus@technophilesafrica.com** with the subject line "Safeguarding concern". We will acknowledge every report and treat it confidentially.
+
+If a child is at immediate risk, contact the National Child Helpline 116 or the nearest police station first.
